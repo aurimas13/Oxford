@@ -1,9 +1,9 @@
 <p align=center>
   <img height="222px" src="https://github.com/aurimas13/Oxford/blob/main/Public/logo.jpeg"/>
 </p>
-<h1 align="center"> Welcome to my MIT Journey 🚀 </h1>
+<h1 align="center"> Welcome to my Oxford Journey 🚀 </h1>
 <p align="center"> Hello and welcome to my MIT Application story. </p>
-<p align="center"> Featuring a <b> Personal Story </b> to videos of challenges on <b> LeetCode </b> & a Research Proposal. Be a part of this journey. </p>
+<p align="center"> Featuring videos of challenges on <b> LeetCode </b> & a Research Proposal. Be a part of this journey. </p>
 <br>
 <p align=center>
   <a href="https://img.shields.io/github/last-commit/aurimas13/MIT_Application"><img alt="lastcommit" src="https://img.shields.io/github/last-commit/aurimas13/MIT_Application?style=social"/></a>
@@ -11,16 +11,10 @@
   <!-- <a href="https://img.shields.io/github/forks/aurimas13/MIT_Application"><img alt="twitter" src="https://img.shields.io/github/forks/aurimas13/MIT_Application?style=social"/> -->
   <a href="https://twitter.com/aanausedas"><img alt="twitter" src="https://img.shields.io/twitter/follow/aanausedas?style=social"/></a>
 
-**Hello and welcome!** I share my journey towards applying to MIT. This repository is a unique blend of my personal story, my ambitious research proposal for MIT, and a showcase of my problem-solving skills through coding challenges.
-
-## 📘 Personal Story
-
-Dive into my [Personal Journey](https://github.com/aurimas13/MIT_Application/blob/main/BIO_MIT_PS.pdf), where I narrate my aspirations, challenges, and triumphs that have shaped my academic and professional path. From a childhood dream of coming to the United States 🇺🇸 to overcoming significant adversities, my story is one of resilience and determination.
-
-- 🎥 Coming Soon: Watch the video version of my story for a more immersive experience.
+**Hello and welcome!** I share my journey towards applying to Oxford's MSc program. This repository is a unique blend of my ambitious research proposal for Oxford, and a showcase of my problem-solving skills through coding challenges.
 
 ## 🧬 Research Proposal
-Explore my [Research Proposal for MIT](https://github.com/aurimas13/MIT_Application/blob/main/Research_Proposal_MIT.pdf) titled "Developing AGI Frameworks for Personalized Healthcare and Mental Health". This document outlines my vision for leveraging Artificial General Intelligence (AGI) in healthcare, focusing on personalization, predictive analysis, and mental health applications.
+Explore my [Research Proposal for Oxford](https://github.com/aurimas13/Oxford/blob/main/Research%20Proposal_MSc.pdf) titled "Developing AGI Frameworks for Personalized Healthcare and Mental Health". This document outlines my vision for leveraging Artificial General Intelligence (AGI) in healthcare, focusing on personalization, predictive analysis, and mental health applications.
 
 ## 🖥️ A Problem A Day
 As a testament to my analytical and coding skills, check out my [Solutions-To-Problems](https://github.com/aurimas13/Solutions-To-Problems) repository, where I solve computational problem a day and have solved over 500 problems to date. Still counting. 
