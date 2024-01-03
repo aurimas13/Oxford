@@ -74,3 +74,4 @@ This section contains my solutions to various programming exercises and problems
 This group includes my personal profile that showcase a range of interests and skills outside the specific categories mentioned above.
 
 - [Aurimas/Alex's Profile](https://github.com/aurimas13/aurimas13)   
+
