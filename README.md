@@ -75,5 +75,3 @@ This group includes my personal profile that showcase a range of interests and s
 
 - [Aurimas/Alex's Profile](https://github.com/aurimas13/aurimas13)   
 
-
- 
