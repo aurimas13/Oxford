@@ -11,7 +11,7 @@
   <!-- <a href="https://img.shields.io/github/forks/aurimas13/MIT_Application"><img alt="twitter" src="https://img.shields.io/github/forks/aurimas13/MIT_Application?style=social"/> -->
   <a href="https://twitter.com/aanausedas"><img alt="twitter" src="https://img.shields.io/twitter/follow/aanausedas?style=social"/></a>
 
-**Hello and welcome!** I share my journey towards applying to Oxford's MSc program. This repository is a unique blend of my ambitious research proposal for Oxford, and a showcase of my problem-solving skills through coding challenges.
+**Hello and welcome!** I share my journey towards applying to Oxford's MSc program in Advanced Computer Science. This repository is a unique blend of my ambitious research proposal for Oxford, and a showcase of my problem-solving skills through coding challenges.
 
 ## 🧬 Research Proposal
 Explore my [Research Proposal for Oxford](https://github.com/aurimas13/Oxford/blob/main/Research%20Proposal_MSc.pdf) titled "Developing AGI Frameworks for Personalized Healthcare and Mental Health". This document outlines my vision for leveraging Artificial General Intelligence (AGI) in healthcare, focusing on personalization, predictive analysis, and mental health applications.
@@ -19,7 +19,7 @@ Explore my [Research Proposal for Oxford](https://github.com/aurimas13/Oxford/bl
 ## 🖥️ A Problem A Day
 As a testament to my analytical and coding skills, check out my [Solutions-To-Problems](https://github.com/aurimas13/Solutions-To-Problems) repository, where I solve computational problem a day and have solved over 500 problems to date. Still counting. 
 
-- 🎥 Coming Soon: Watch some of these solutions come to life in video format, demonstrating my approach to complex problem-solving.
+- 🎥 The first video solution of a hard diffulty problem showing how I handled it, demonstrating my approach to problem-solving can be accesed through [here](https://github.com/aurimas13/Oxford/blob/main/Video/1_Solution_Hard.mp4) or watched through website [here](https://www.loom.com/share/b8d29d93edbc4d8e8ed12dc4a328f0f8?sid=34ae80d3-46e1-4b6b-9045-0781bfa6ba9a) while the actual written solution and problem description are found [here](https://github.com/aurimas13/Solutions-To-Problems/tree/main/LeetCode/Python%20Solutions/Arithmetic%20Slices%20II%20-%20Subsequence).
 
 ## Grouped GitHub Projects/Repositories
 
